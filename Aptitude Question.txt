@@ -656,7 +656,16 @@ c) vanished on extended tree
 
 d) None of the above
 
-Ans: (a)
+Ans: (a).
+
+
+The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:
+
+A.15
+B.16
+C.18
+D.25
+Answer:(B)
 
 ----------------------------------
 
