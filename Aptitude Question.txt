@@ -638,6 +638,25 @@ B. 48 km/h
 C. 36 km/h
 D. 25 km/h
 Answer: B
+When converting binary tree into extended binary tree, all the original nodes in binary tree are
+
+a) internal nodes on extended tree
+
+b) external nodes on extended tree
+
+c) vanished on extended tree
+
+d) None of the aboveWhen converting binary tree into extended binary tree, all the original nodes in binary tree are
+
+a) internal nodes on extended tree
+
+b) external nodes on extended tree
+
+c) vanished on extended tree
+
+d) None of the above
+
+Ans: (a)
 
 ----------------------------------
 
